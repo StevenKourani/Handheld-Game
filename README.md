@@ -53,8 +53,8 @@ This repository contains both the **hardware design files** (KiCad) and **firmwa
 ## 🚀 Getting Started
 
 ### 1. Hardware
-- Open `kicad/` in **KiCad 9.0**.
-- Gerber and BOM files are available in `gerbers/` and `fabrication/` for PCB fabrication.
+- Open `Kicad/` in **KiCad 9.0**.
+- Gerber and BOM files are available in `Gerbers/` and `Fabrication/` for PCB fabrication.
 
 ### 2. Firmware
 - Open the `Inc/` and `Src/` folders in **STM32CubeIDE**.
