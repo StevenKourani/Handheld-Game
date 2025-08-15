@@ -3,6 +3,7 @@ A custom-built handheld console powered by an STM32 microcontroller, featuring a
 This repository contains both the **hardware design files** (KiCad) and **firmware source code**.
 
 ---
+<img width="1690" height="664" alt="Handheld" src="https://github.com/user-attachments/assets/0763fe7d-84c7-4d7f-9c7f-e65ff4c68e68" />
 
 ## 🔧 Hardware Overview
 
